@@ -1,7 +1,7 @@
 💸 App de Organização de Finanças Pessoais com Vibe Coding
-# https://github.com/igorvianaandrade/dio-lab-vibe-coding-app-financas
+https://github.com/igorvianaandrade/dio-lab-vibe-coding-app-financas
 
-### PRD
+# PRD
 
 # Contexto
 Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
