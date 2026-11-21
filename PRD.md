@@ -1,5 +1,4 @@
 💸 App de Organização de Finanças Pessoais com Vibe Coding
-https://github.com/igorvianaandrade/dio-lab-vibe-coding-app-financas
 
 # PRD
 
@@ -24,3 +23,5 @@ Pessoas que querem começar a organizar suas finanças de forma prática e sem c
 # Entregável da IA
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
 Usar tom educativo e linguagem acessível, em português.
+
+#### Fonte: https://github.com/igorvianaandrade/dio-lab-vibe-coding-app-financas
