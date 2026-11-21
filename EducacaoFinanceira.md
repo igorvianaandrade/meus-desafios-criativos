@@ -1,4 +1,4 @@
-# 💰 Educação Financeira: Renda Fixa e Renda Variável
+# 💰 Educação Financeira
 
 ## 📖 Introdução
 
