@@ -175,6 +175,9 @@ R$ 1.000
 - Risco cambial
 - Volatilidade internacional
 
+# Dica
+Assista ao video: "todos os investimentos explicados em 19 minutos": https://youtu.be/TLCg0t76cfo?si=cLzjY4F0kIcTnD-m
+
 ---
 
 # 🔑 Regra dos 5 Passos da Educação Financeira
